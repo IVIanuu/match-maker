@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/match-maker.iml" filepath="$PROJECT_DIR$/.idea/modules/match-maker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/match-maker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/match-maker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/match-maker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/match-maker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/match-maker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/match-maker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/match-maker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/match-maker.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/match-maker.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/match-maker.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/match-maker.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/match-maker.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/match-maker.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/match-maker.buildSrc.test.iml" />
     </modules>
   </component>
 </project>
